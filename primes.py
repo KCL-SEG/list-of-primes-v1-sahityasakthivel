@@ -2,7 +2,6 @@
 """ENTER YOUR SOLUTION HERE!"""
 
 def primes(number_of_primes):
-    print("h")
     list = []
 
     if (number_of_primes >= 1):
